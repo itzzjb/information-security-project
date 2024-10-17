@@ -8,5 +8,5 @@ This innovative web app not only streamlines the booking process but also emphas
 
 ### Blog Articles
 
-- 📌 [Building Trust with OpenID Connect Protocols 🛡](https://medium.com/)
+- 📌 [Building Trust with OpenID Connect Protocols 🛡](https://medium.com/@janudabethmin/building-trust-with-openid-connect-protocols-2322515e0fba)
 - 📌 [Defending Against Threats!🔐](https://medium.com/)
